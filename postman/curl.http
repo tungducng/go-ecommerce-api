@@ -1,0 +1,2 @@
+curl http://localhost:8080/v1/user/1
+{"message":"repo","users":["user1","user2"]}%  
